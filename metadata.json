@@ -1,0 +1,5 @@
+{
+  "name": "AutoLab.ai",
+  "description": "A multi-agent autonomous research system powered by Gemini 3. It decomposes research questions, simulates specialized ML agents running experiments, and synthesizes white papers.",
+  "requestFramePermissions": []
+}
